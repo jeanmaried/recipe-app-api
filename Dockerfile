@@ -1,4 +1,4 @@
-FROM python:3.8-rc-alpine
+FROM python:3.7-alpine
 LABEL Jean-Marie Dalmasso
 
 ENV PYTHONUNBUFFERED 1
